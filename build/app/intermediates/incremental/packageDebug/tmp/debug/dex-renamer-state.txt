@@ -1,0 +1,4 @@
+#Tue Oct 20 17:03:31 BRT 2020
+base.0=C\:\\Users\\luqui\\Documents\\Projetos_Flutter\\contador_de_pessoas\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
